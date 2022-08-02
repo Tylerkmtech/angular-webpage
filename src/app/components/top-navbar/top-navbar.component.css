@@ -1,0 +1,26 @@
+.material-icons {
+    font-size: 35px;
+}
+
+mat-icon {
+    width: 35px;
+    height: 35px;
+}
+
+.mat-icon-button i, .mat-icon-button .mat-icon {
+    line-height: 35px;
+}
+
+div {
+    margin-left: 50px;
+    cursor: pointer;
+}
+mat-toolbar{
+    height: 90px;
+    position: fixed;
+    background-color: black;
+}
+img{
+    height: 200px;
+    padding-left: 330px;
+}
